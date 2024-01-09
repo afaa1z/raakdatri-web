@@ -50,7 +50,7 @@ $total_orders = $result_order->num_rows;
                 <div class="box">
                     <h3>Selamat Datang!</h3>
                     <p><?= $fetch_profile['nama']; ?></p>
-                    <a href="update.php" class="btn">View Profile</a>
+                    <a href="update.php" class="btn">Update Profile</a>
                 </div>
 
                 <div class="box">
